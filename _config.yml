@@ -1,0 +1,50 @@
+locale: "en-US"
+title: Deep Learning Decal# Title of your site
+url: "https://ml.berkeleu.edu/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+google_analytics_key: ""
+
+# Default description in social shares for the jekyll-seo-tag gem
+description: > # this means to ignore newlines until "baseurl:"
+    Website for Machine Learning at Berkeley's Deep Learning Decal
+
+# Author details for the jekyll-seo-tag gem
+author:
+  name: Daniel Geng
+  email: ml.at.berkeley@berkeley.edu
+  twitter: # twitter username without the @ symbol
+
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Strata Reloaded Template
+  links:
+    - https://github.com/mlberkeley/Deep-Learning-Decal-Website
+
+permalink: pretty
+
+gems:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-sitemap"
+
+# Jekyll SEO Tag
+webmaster_verifications:
+  google: # 1234
+  bing: # 1234
+  alexa: # 1234
+  yandex: # 1234
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
