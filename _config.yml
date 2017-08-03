@@ -6,7 +6,7 @@ google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-    Website for Machine Learning at Berkeley's Deep Learning Decal
+    Website for Machine Learning at Berkeley's Data Science Decal
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -18,7 +18,7 @@ author:
 social:
   name: Strata Reloaded Template
   links:
-    - https://github.com/mlberkeley/Deep-Learning-Decal-Website
+    - https://github.com/mlberkeley/Data-Science-Decal-Website
 
 permalink: pretty
 
