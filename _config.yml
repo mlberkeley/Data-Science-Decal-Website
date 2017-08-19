@@ -1,5 +1,5 @@
 locale: "en-US"
-title: Deep Science Decal
+title: Data Science Decal
 url: "https://ml.berkeleu.edu/decals/DSD/" # the base hostname & protocol for your site
 baseurl: "/decals/DSD" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
