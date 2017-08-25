@@ -13,7 +13,7 @@ Welcome to the Data Science Decal! In this course, you will discover how to anal
 
 **Time:** Tuesday 5:00 - 7:00 PM
 
-**Location:** Tentative
+**Location:** Genetics and Plant Bio 100
 
 ## Prerequisites
 
