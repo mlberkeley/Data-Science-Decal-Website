@@ -6,6 +6,7 @@ This repo hosts Machine Learning at Berkeley's Data Science Decal website. The J
 
 - This site is run of Jekyll, a ruby Gem that generates static sites.
 - To use this repo make sure you have Jekyll [installed](https://jekyllrb.com/docs/installation/)
+- Run `bundle install` in the directory to install dependencies
 - To debug this site, run `jekyll serve` to create a local server. Go to the specified url (probably http://127.0.0.1:4000/decals/DSD/) to see the site.
 - To generate the static site, run `jekyll build`. This generates the stie and puts it in the `_site` directory. (Only really need to do this on the OCF machine (see below))
 
