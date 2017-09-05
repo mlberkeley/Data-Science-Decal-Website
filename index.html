@@ -24,25 +24,4 @@ layout: default
       </section>
     {% endfor %}
   </section>
-
-  <section>
-    <div class="row">
-      {% for post in site.posts %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
-            <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section>
-            {{ post.excerpt }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a></li>
-              <li class="editor-link"><a href="cloudcannon:collections/{{ post.path }}" class="button"><strong>&#9998;</strong> Edit post</a></li>
-            </ul>
-          </footer>
-        </article>
-      {% endfor %}
-    </div>
-  </section>
 </div>
