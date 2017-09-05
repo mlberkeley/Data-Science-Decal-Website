@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+tag: featured
 ---
 <img src="{{ site.baseurl }}/images/fulls/03.jpg" class="fit image"> 
 

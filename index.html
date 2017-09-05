@@ -2,8 +2,18 @@
 layout: default
 ---
 <div id="main">
+
   <section>
-    {% for post in site.posts limit:1 %}
+      <h1>Table of Contents</h1>
+      <ul>
+          {% for post in site.posts %}
+          <li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} --- {{ post.date | date: "%b %-d, %Y" }}</a></h4>
+          {% endfor %}
+      <ul>
+  </section>
+
+  <section>
+    {% for post in site.tags.featured limit:1 %}
       <header>
         <h1>{{ post.title }}</h1>
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
@@ -17,7 +27,7 @@ layout: default
 
   <section>
     <div class="row">
-      {% for post in site.posts offset:1 %}
+      {% for post in site.posts %}
         <article class="{% cycle '6u', '6u$' %} 12u(small)">
           <header>
             <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
