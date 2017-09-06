@@ -4,7 +4,7 @@ title: Docker Tutorial
 ---
 In this class we will be using docker as our main environment for any programming we do. This will help ensure that everybody has the same versions of software, etc. If you are using Windows go [here](#windows), Mac OS go [here](#mac), and linux go [here](#linux) for instructions on how to install docker. Once you have it installed, there are instructions for verifying your installation [here](#verify). Once you have verified your installation there is a section with a brief introduction on how docker works [here](#usage) Your first miniature homework assignment will be to submit a file to gradescope showing that you have correctly installed Docker and understand how to use it, so please follow these instructions carefully (more details on the homework assignment will come later).  
 
-![docker logo](docker_logo.png)
+<img src="{{ site.baseurl }}/images/docker_logo.png" class="fit image">
 
 # Installation
 

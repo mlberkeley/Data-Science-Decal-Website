@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homework 0: Docker Setup
+title: Homework 0, Docker Setup
 ---
 
 # Homework 0
