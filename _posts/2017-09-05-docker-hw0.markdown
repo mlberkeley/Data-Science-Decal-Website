@@ -1,0 +1,7 @@
+---
+layout: post
+title: Homework 0: Docker Setup
+---
+
+# Homework 0
+This homework is very short and should only take 5 minutes. All you have to do is run ```docker run -it jamesbartlett/dsd-hw0```. If you followed the docker tutorial and everything works it should prompt you to type in your name. Once you type in your name and press enter, it will spit out a string of hexidecimal digits. To complete this homework submit a text file called ```submission.txt``` to gradescope which has just two lines, on the first line type your full name, just like you typed it when the docker container prompted you. On the second line, paste the hexadecimal string that the docker container spat out. Then submit this text file to gradescope.
