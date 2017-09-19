@@ -1,0 +1,8 @@
+---
+layout: post
+title: Webcasts
+---
+
+- Lecture 1 - No webcast
+- [Lecture 2](https://www.youtube.com/watch?v=COCDvToc6mU&feature=youtu.be) - Data Visualization and Cleaning
+
