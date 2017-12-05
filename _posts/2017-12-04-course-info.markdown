@@ -17,6 +17,10 @@ No matter your background, data science and machine learning are infiltrating yo
 
 **Location:** Genetics and Plant Bio 100
 
+## Course Email
+
+<span style="unicode-bidi: bidi-override; direction: rtl;">ude.yelekreb.lm@laced</span>
+
 ## Prerequisites
 
 This class is a projects-based class with a machine learning bias. You are expected to have some programming or statistics backgrounds and so the material will be of greatest benefit to sophomores or those who have taken CS61A, DATA 8, STAT 133, or equivalent. However, the first week of class will be a python bootcamp. By the end of it, you can determine whether you are comfortable continuing through the course. 
