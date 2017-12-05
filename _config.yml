@@ -1,12 +1,12 @@
 locale: "en-US"
-title: Data Science Decal
-url: "https://ml.berkeleu.edu/decals/DSD/" # the base hostname & protocol for your site
-baseurl: "/decals/DSD" # the subpath of your site, e.g. /blog/
+title: Machine Learning Decal
+url: "https://ml.berkeley.edu/decals/DSD/" # the base hostname & protocol for your site
+baseurl: "/decals/MLD" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-    Website for Machine Learning at Berkeley's Data Science Decal
+    Website for Machine Learning at Berkeley's Machine Learning Decal
 
 # Author details for the jekyll-seo-tag gem
 author:

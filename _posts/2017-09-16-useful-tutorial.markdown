@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Useful Tutorials
+published: false
 ---
 
 We've compiled a few resources from the internet for those of you who are having trouble with the coding or computer stuff.

@@ -1,6 +1,6 @@
-# Data Science Decal Website
+# Machine Learning Website (Formerly: Data Science Decal Website)
 
-This repo hosts Machine Learning at Berkeley's Data Science Decal website. The Jekyll theme is from [here](https://github.com/old-jekyll-templates/Strata-Jekyll-Theme/tree/master/images).
+This repo hosts Machine Learning at Berkeley's Machine Learning Decal website. The Jekyll theme is from [here](https://github.com/old-jekyll-templates/Strata-Jekyll-Theme/tree/master/images).
 
 ## Instructions for MLAB editors
 

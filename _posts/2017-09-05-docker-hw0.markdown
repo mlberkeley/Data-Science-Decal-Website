@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Homework 0, Docker Setup
+published: false
 ---
 
 # Homework 0
