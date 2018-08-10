@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Info
-tag: featured
+published: false
 ---
 Have you ever wondered why everyone and their mothers’ are talking about data science and machine learning? Does the fear of big data taking over the world keep you up at night? Do you want to learn about one of the hottest fields in modern industry? If so, welcome to the Machine Learning Decal! 
 
